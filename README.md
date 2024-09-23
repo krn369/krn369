@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karan PARIYAR.
-- 👀 I’m interested in Software Developer.
+- 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C#
 
