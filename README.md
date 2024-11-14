@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan PARIYAR.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C# & Java
-- 💞️ I’m looking to collaborate on C# & Java
+- 🌱 I’m currently learning C#, Java, HTML & CSS.
+
 
 <!---
 krn369/krn369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
