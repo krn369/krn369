@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan PARIYAR.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C#, Java, HTML & CSS, Figma, SQL, NoSQL.
+- 🌱 I’m currently learning C#, Java, HTML & CSS, JavaScript, Figma, SQL, NoSQL.
 
 
 <!---
